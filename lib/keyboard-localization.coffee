@@ -46,6 +46,7 @@ KeyboardLocalization =
         'fi_FI'
         'fi_FI-mac'
         'hu_HU'
+        'it_CH'
         'it_IT'
         'ja_JP'
         'lv_LV'
