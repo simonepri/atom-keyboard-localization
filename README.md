@@ -35,7 +35,7 @@ Inside Atom's packages management, click **Settings**, and in the freshly opened
 * [Hungarian](https://www.terena.org/activities/multiling/ml-mua/test/img/kbd_hungary.gif) (`hu_HU`)
 * [Romanian](http://upload.wikimedia.org/wikipedia/commons/f/f0/Romanian-keyboard-layout.png) (`ro_RO`) - untested
 * [Slovenian](http://smotko.si/assets/pics/keyboard.png) (`sl_SL`)
-* [Italian](https://www.terena.org/activities/multiling/ml-mua/test/img/kbd_italian.gif) (`it_IT`)
+* [Italian](http://i.stack.imgur.com/nbv47.png) (`it_IT`)
 * [Swiss Italian](Italian+German) (`it_CH`)
 * [Portuguese](https://www.terena.org/activities/multiling/ml-mua/test/img/kbd_portug.gif) (`pt_PT`) - untested
 * Latvian (`lv_LV`)
